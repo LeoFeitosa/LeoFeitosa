@@ -1,5 +1,42 @@
-### Hi there 👋
+### Olá! eu sou o Leo 👋
+🌱 **Estudando atualmentel:** Unity
 
+:school_satchel: **Ferramentas principais:** Visual Studio Code e GitHub;
+  
+  ##
+  
+### *Estatísticas:*
+ <div>
+  <a href="https://github.com/LeoFeitosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoFeitosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFeitosa&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+  
+  ##
+ 
+### *Linguagens e frameworks:*
+<div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="Codeigniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg"> 
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"> 
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">  
+  <img align="right" alt="Sonic" height="126" src="http://pa1.narvii.com/7204/52eb125b50f616c49174f56e693c5168632bac92r1-205-210_00.gif"> 
+</div>
+  
+  ##
+  
+### *Contato:*
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-feitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/LeoFeitosa/LeoFeitosa/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <!--
 **LeoFeitosa/LeoFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
