@@ -10,8 +10,8 @@
 ### *Estatísticas:*
  <div>
   <a href="https://github.com/LeoFeitosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoFeitosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFeitosa&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LeoFeitosa&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFeitosa&layout=compact&langs_count=8&theme=transparent"/>
 </div>
   
   ##
