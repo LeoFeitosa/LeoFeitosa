@@ -1,7 +1,7 @@
 ### Olá! eu sou o Leo 👋
 🌱 **Estudando atualmentel:** Unity e C#
 
-:school_satchel: **Ferramentas principais:** Unity, C#, Visual Studio Code e GitHub;
+:school_satchel: **Ferramentas principais:** PHP, Unity, C#, Visual Studio Code e GitHub;
 
 :thought_balloon: **Projetos pessoais:** <a href="https://leofeitosa.itch.io/" target="_blank">Jogos</a>, <a href="https://fightcaderoms.com/" target="_blank">Fightcade Roms</a>, <a href="https://www.linkeiro.com.br/" target="_blank">Linkeiro</a>
 
