@@ -26,8 +26,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Codeigniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg"> 
   <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"> 
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">  
-  <img align="right" alt="Sonic" height="126" src="http://pa1.narvii.com/7204/52eb125b50f616c49174f56e693c5168632bac92r1-205-210_00.gif"> 
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
 </div>
   
   ##
