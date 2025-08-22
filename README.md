@@ -1,5 +1,4 @@
 ### Olá! eu sou o Leo 👋
-🌱 **Estudando atualmentel:** Unity e C#
 
 :school_satchel: **Ferramentas principais:** PHP, Unity, C#, Visual Studio Code e GitHub;
 
